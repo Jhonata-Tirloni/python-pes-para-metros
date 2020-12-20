@@ -1,4 +1,4 @@
 # python-pes-para-metros
 Aplicativo simples em Python para conversão de pés para metros, utilizando a framework Tkinter para criação de GUI. 
 
-![alt text](http://url/to/img.png)
+![Simple Tkinter GUI demo](https://ibb.co/Y7NS5Fw)
